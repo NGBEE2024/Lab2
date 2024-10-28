@@ -1,4 +1,4 @@
-def calculate_bmi(height, weight):
+def calculate_bmi(height, weight): 
  print("Height = " + str(height))
  print("Weight = " + str(weight))
 
